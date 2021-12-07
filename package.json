@@ -2,8 +2,9 @@
   "name": "nodefiles",
   "version": "1.0.0",
   "description": "Simple NodeJs web app",
-  "main": "HelloNode.js",
+  "main": "HelloNode2.js",
   "scripts": {
+    "start": "node HelloNode2.js",		  
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
